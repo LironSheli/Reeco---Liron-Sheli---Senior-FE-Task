@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "description": "Fresh and juicy red apples.",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/TUD30_L_P_963174_1.png",
+    "category": "Fresh Produce"
+  },
+  {
+    "id": 2,
+    "name": "Orange Juice",
+    "description": "100% natural orange juice.",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/GQV08_L_P_4030100_1.png",
+    "category": "Beverage"
+  },
+  {
+    "id": 3,
+    "name": "Almonds",
+    "description": "Premium quality organic almonds.",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AKI60_L_P_7290019297635_1.png",
+    "category": "Snacks"
+  },
+  {
+    "id": 4,
+    "name": "Milk",
+    "description": "Dairy fresh milk with essential nutrients.",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AAL20_L_P_4131074_1.png",
+    "category": "Dairy"
+  },
+  {
+    "id": 5,
+    "name": "Apple",
+    "description": "Fresh and juicy red apples.",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/TUD30_L_P_963174_1.png",
+    "category": "Fresh Produce"
+  },
+  {
+    "id": 6,
+    "name": "Orange Juice",
+    "description": "100% natural orange juice.",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/GQV08_L_P_4030100_1.png",
+    "category": "Beverage"
+  },
+  {
+    "id": 7,
+    "name": "Almonds",
+    "description": "Premium quality organic almonds.",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AKI60_L_P_7290019297635_1.png",
+    "category": "Snacks"
+  },
+  {
+    "id": 8,
+    "name": "Milk",
+    "description": "Dairy fresh milk with essential nutrients.",
+    "image": "https://res.cloudinary.com/shufersal/image/upload/f_auto,q_auto/v1551800922/prod/product_images/products_large/AAL20_L_P_4131074_1.png",
+    "category": "Dairy"
+  }
+]
