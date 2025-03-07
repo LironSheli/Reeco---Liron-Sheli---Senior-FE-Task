@@ -128,8 +128,10 @@ export const Slider = ({
         )}
       </div>
       <div ref={sliderRef} className="ls-slider-content">
-        {items.map((item) => (
-          <div className="ls-slider-item">{item}</div>
+        {items.map((item, idx) => (
+          <div className="ls-slider-item" key={idx}>
+            {item}
+          </div>
         ))}
       </div>
       <div className="ls-slider-button">
